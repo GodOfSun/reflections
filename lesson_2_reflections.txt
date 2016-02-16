@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Ele inicializa o diretório como um repositório. Sem isto náo consegue rastrear as mudanças
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+o Staging é a área que realmente está sendo monitorada.  
