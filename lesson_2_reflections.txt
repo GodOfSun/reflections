@@ -21,3 +21,7 @@ Tornando a gráfica a visualização dos pontos de conexão dos branches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 É a soma de todas as alterações, considerando linhas deletadas e criadas. A representação é feita desta maneira pois as alterações se combinam e é dependente das alterações dos dois branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: para trabalho não relacionados fica perfeito, pois apenas remove ou adiciona características. Cons: se os trabalhos forem relacionados, podem haver conflitos que devem ser resolvidos manualmente.
