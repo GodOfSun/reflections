@@ -5,3 +5,11 @@ Ele inicializa o diretório como um repositório. Sem isto náo consegue rastrea
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 o Staging é a área que realmente está sendo monitorada.  
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Adicionando apenas os arquivos relevantes a mudança
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Versões estáveis que precisam ser mantidas e também o desenvolvimento de novas características que são experimentais.
