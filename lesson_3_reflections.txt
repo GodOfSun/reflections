@@ -13,3 +13,7 @@ fork copia de um repositorio GITHUB para o meu repositorio GITHUB. O clone copia
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Evita conflitos com certeza
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+colocando os arquivos em um servidor remoto, mas não teria controle sobre as alterações e heveria muito conflito
