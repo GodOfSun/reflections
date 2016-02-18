@@ -17,3 +17,8 @@ Evita conflitos com certeza
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 colocando os arquivos em um servidor remoto, mas não teria controle sobre as alterações e heveria muito conflito
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Algo novo, que está testando e talvez não funcione pode ser colocado em um novo brach. Também pode ser usado para separar duas questões diferentes sem interferência uma da outra
+
